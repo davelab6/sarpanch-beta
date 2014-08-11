@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont ttLibVersion="2.4">
+
+  <GDEF>
+    <Version value="1.0"/>
+    <GlyphClassDef>
+      <ClassDef glyph="uni0901" class="3"/>
+      <ClassDef glyph="uni0902" class="3"/>
+      <ClassDef glyph="uni0902.aMatraI" class="3"/>
+      <ClassDef glyph="uni0930094D.2" class="3"/>
+      <ClassDef glyph="uni0930094D.aMatraI" class="3"/>
+      <ClassDef glyph="uni0930094D0902" class="3"/>
+      <ClassDef glyph="uni0930094D0902.aMatraI" class="3"/>
+      <ClassDef glyph="uni0941" class="3"/>
+      <ClassDef glyph="uni0942" class="3"/>
+      <ClassDef glyph="uni0943" class="3"/>
+      <ClassDef glyph="uni0944" class="3"/>
+      <ClassDef glyph="uni0945" class="3"/>
+      <ClassDef glyph="uni0946" class="3"/>
+      <ClassDef glyph="uni0947" class="3"/>
+      <ClassDef glyph="uni09470901" class="3"/>
+      <ClassDef glyph="uni09470902" class="3"/>
+      <ClassDef glyph="uni09470930094D" class="3"/>
+      <ClassDef glyph="uni09470930094D0902" class="3"/>
+      <ClassDef glyph="uni0948" class="3"/>
+      <ClassDef glyph="uni09480901" class="3"/>
+      <ClassDef glyph="uni09480902" class="3"/>
+      <ClassDef glyph="uni09480930094D" class="3"/>
+      <ClassDef glyph="uni09480930094D0902" class="3"/>
+      <ClassDef glyph="uni094D" class="3"/>
+      <ClassDef glyph="uni094D0930" class="3"/>
+    </GlyphClassDef>
+  </GDEF>
+
+</ttFont>
